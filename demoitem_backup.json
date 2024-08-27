@@ -1,22 +1,28 @@
-[
+{"plate":[
     {
         "id": 1,
-        "title": "Item 1"
+        "state":"Johor",
+        "title": "JXX1813"
     },
     {
         "id": 2,
-        "title": "Item 2"
+        "state":"AJohor",
+        "title": "ABC1313"
     },
     {
         "id": 3,
+        "state":"BJohor",
         "title": "Item 3"
     },
     {
         "id": 4,
+        "state":"CJohor",
         "title": "Item 4"
     },
     {
         "id": 5,
+        "state":"DJohor",
         "title": "Item 5"
     }
 ]
+}
