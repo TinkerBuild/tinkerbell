@@ -5,26 +5,26 @@
     {
         "id": 1,
         "state":"Johor",
-        "pnumber": "JXX1813"
+        "pnumber": "JXX999"
     },
     {
         "id": 2,
-        "state":"AJohor",
+        "state":"Kedah",
         "pnumber": "ABC1313"
     },
     {
         "id": 3,
-        "state":"BJohor",
+        "state":"LANGKAWI",
         "pnumber": "Item 34"
     },
     {
         "id": 4,
-        "state":"CJohor",
+        "state":"KELANTAN",
         "pnumber": "Item 4"
     },
     {
         "id": 5,
-        "state":"DJohor",
+        "state":"KUALA LUMPUR",
         "pnumber": "Item 5"
     }
 ]
